@@ -17,6 +17,8 @@ OpenCV의 여러 필터를 조합하여 자연스럽고 선명한 카툰 효과�
 #### 예시 1
  <img src="./example_imagin/ironman.jpg" width="500" height="300">
  <img src="./example_imagin/cartoon_ironman.png" width="500" height="300">
+
+ 출처: [이미지 제공 웹사이트](https://m.comics-art.co.kr/product/%EB%A7%88%EB%B8%94-%ED%94%BC%EA%B7%9C%EC%96%B4-%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A7%80-%EC%98%A4%EB%B8%8C-%EC%9A%B8%ED%8A%B8%EB%A1%A0-artfx-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%A7%88%ED%81%AC45/1722/#enp_mbris)
  
 #### 예시 2
  <img src="./example_imagin/puppy.jpg" width="500" height="300">
